@@ -184,7 +184,7 @@ padding: 2px;
 }
 #clients::before{
     content: "";
-background-image: url(2.jpg);
+background-image: url('2.jpg');
     position: absolute;
 
     /* left:0px; */
