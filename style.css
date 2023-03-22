@@ -87,7 +87,7 @@ justify-content: center;
 #home::before{ 
     content: "";
     position: absolute;
-    background: url('projectphotos/6.jpg') no-repeat center center/cover;
+    background: url('6.jpg') no-repeat center center/cover;
     height: 442px;
     top:0px;
     left:0px;
@@ -184,7 +184,7 @@ padding: 2px;
 }
 #clients::before{
     content: "";
-background-image: url(projectphotos/2.jpg);
+background-image: url(2.jpg);
     position: absolute;
 
     /* left:0px; */
